@@ -12,6 +12,8 @@
         </activity>
         <activity android:name=".OrganizationsActivity" >
         </activity>
+        <activity android:name=".BusActivity" >
+        </activity>
         <activity android:name=".GreatActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
